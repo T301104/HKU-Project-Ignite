@@ -5,11 +5,13 @@ public class NpcMonkey : MonoBehaviour
 {
 
     public bool isSaved = false;
-    private Material material;
+    private Renderer rend;
+    private Rigidbody rb;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        material = gameObject.GetComponent<Material>();
+        rb = gameObject.GetComponent<Rigidbody>();
+        rend = gameObject.GetComponent<Renderer>();
     }
 
     // Update is called once per frame
@@ -23,7 +25,12 @@ public class NpcMonkey : MonoBehaviour
     
     private IEnumerator SavingSequence ()
     {
-        material.color = Color.green;
-        yield return new WaitForSeconds(4);
+        rend.material.color = Color.green;
+        yield return new WaitForSeconds(2);
+        while(transform.position.y <= 10)
+        {
+            rb.AddForce(Vector3.up);
+            yield return new WaitForSeconds(0.1f);
+        }
     }
 }
