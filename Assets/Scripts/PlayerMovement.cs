@@ -21,5 +21,6 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector2 playerMovement = new Vector2(playerMoveAction.ReadValue<Vector2>().x, 0) * speed;
         rb.AddForce(playerMovement); 
+        
     }
 }
