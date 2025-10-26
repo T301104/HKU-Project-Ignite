@@ -40,7 +40,7 @@ public class FireWall : MonoBehaviour
         rb.AddForce(1 * acceleration, 0, 0, ForceMode.Force);
         if (rb.linearVelocity.magnitude > maxSpeed) 
         {
-            rb.linearVelocity = rb.linearVelocity * maxSpeed;
+            rb.linearVelocity = rb.linearVelocity * maxSpeed * Time.deltaTime;
         }
     }
 
