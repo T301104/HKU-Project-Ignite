@@ -5,10 +5,16 @@ public class PlayerDamage : MonoBehaviour
 {
     public float MaxHealth = 10;
     public float Health;
+    public float KockBackForce;
+    public float KockBackCounter;
+    public float KockBackTotalTime;
 
+    public bool KockFromRicht;
+    Rigidbody rb;
 
     private void Start()
     {
+        rb = GetComponent<Rigidbody>();
         Health = MaxHealth;
     }
 
@@ -17,12 +23,23 @@ public class PlayerDamage : MonoBehaviour
     public void TakeDamage(float damage)
     {
         Health -= damage;
+
+        
+
         if (Health <= 0)
         {
             OnDeath();
         }
 
+        if (KockFromRicht == true)
+        {
+            rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce, 0);
+        }
 
+        if (KockFromRicht == false)
+        {
+            rb.linearVelocity = new Vector3(KockBackForce, KockBackForce, 0);
+        }
 
     }
 
@@ -30,6 +47,21 @@ public class PlayerDamage : MonoBehaviour
     {
         SceneManager.LoadScene("GameOver");
     }
-    
+
+    //public void FixedUpdate()
+    //{
+    //    if (KockFromRicht == true)
+    //    {
+    //        rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce, 0);
+    //    }
+
+    //    if (KockFromRicht == false)
+    //    {
+    //        rb.linearVelocity = new Vector3(KockBackForce, KockBackForce, 0);
+    //    }
+
+
+    //}
+
 
 }
