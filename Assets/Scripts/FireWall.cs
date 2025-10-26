@@ -35,14 +35,12 @@ public class FireWall : MonoBehaviour
         }
     }
 
+
     private void Update()
     {
-        rb.AddForce(1 * acceleration, 0, 0, ForceMode.Force);
-        if (rb.linearVelocity.magnitude > maxSpeed) 
-        {
-            rb.linearVelocity = rb.linearVelocity * maxSpeed * Time.deltaTime;
-        }
+        rb.transform.position += new Vector3(2 * maxSpeed * Time.deltaTime, 0);
     }
+
 
 
 }

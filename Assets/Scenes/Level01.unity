@@ -340,9 +340,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage: 10
   playerDamage: {fileID: 2121486263}
-  acceleration: 100
+  acceleration: 10
   deseleration: 0
-  maxSpeed: 100
+  maxSpeed: 10
 --- !u!54 &1390621892
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -351,7 +351,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1390621886}
   serializedVersion: 4
-  m_Mass: 50
+  m_Mass: 1000
   m_Drag: 0
   m_AngularDrag: 0
   m_CenterOfMass: {x: 0, y: 0, z: 0}
