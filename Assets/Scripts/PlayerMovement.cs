@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float speed = 10;
     InputAction playerMoveAction;
     InputAction jumpAction;
+    NpcMonkey npcMonkey;
 
 
     Rigidbody rb;
@@ -27,7 +28,9 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(Vector3.up * jumpStrength);
         }
         Vector2 playerMovement = new Vector2(playerMoveAction.ReadValue<Vector2>().x, 0) * speed;
-        rb.AddForce(playerMovement); 
-        
+        rb.AddForce(playerMovement);
+
     }
+    
+
 }
