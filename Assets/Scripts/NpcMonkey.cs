@@ -31,11 +31,9 @@ public class NpcMonkey : MonoBehaviour
     private IEnumerator SavingSequence()
     {
         rend.material.color = Color.green;
+        MonkeyManager.Instance.savedMonkeys++;
+        MonkeyManager.Instance.usableMonkeys++;
         yield return new WaitForSeconds(2);
-        while (transform.position.y <= 10)
-        {
-            rb.AddForce(Vector3.up);
-            yield return new WaitForSeconds(0.1f);
-        }
+        Destroy(gameObject);
     }
 }
