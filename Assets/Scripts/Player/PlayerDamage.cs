@@ -33,12 +33,12 @@ public class PlayerDamage : MonoBehaviour
 
         if (KockFromRicht == true)
         {
-            rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce, 0);
+            rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce * 2f, 0);
         }
 
         if (KockFromRicht == false)
         {
-            rb.linearVelocity = new Vector3(KockBackForce, KockBackForce, 0);
+            rb.linearVelocity = new Vector3(KockBackForce, KockBackForce * 2f, 0);
         }
 
     }
@@ -47,21 +47,6 @@ public class PlayerDamage : MonoBehaviour
     {
         SceneManager.LoadScene("GameOver");
     }
-
-    //public void FixedUpdate()
-    //{
-    //    if (KockFromRicht == true)
-    //    {
-    //        rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce, 0);
-    //    }
-
-    //    if (KockFromRicht == false)
-    //    {
-    //        rb.linearVelocity = new Vector3(KockBackForce, KockBackForce, 0);
-    //    }
-
-
-    //}
 
 
 }
