@@ -22,8 +22,8 @@ public class UIScript : MonoBehaviour
 
     public void UpdateText() 
     {
-        PlayerHP.text = playerDamage.Health.ToString();
-        MonkeyCount.text = monkeyManager.usableMonkeys.ToString();
+        PlayerHP.text = "Health: " + playerDamage.Health.ToString();
+        MonkeyCount.text = "Boost: " + monkeyManager.usableMonkeys.ToString();
     }
 
 }
