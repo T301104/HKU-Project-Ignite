@@ -30,7 +30,7 @@ public class NpcMonkey : MonoBehaviour
 
     private IEnumerator SavingSequence()
     {
-        rend.material.color = Color.green;
+        //rend.material.color = Color.green;
         MonkeyManager.Instance.savedMonkeys++;
         MonkeyManager.Instance.usableMonkeys++;
         yield return new WaitForSeconds(2);
