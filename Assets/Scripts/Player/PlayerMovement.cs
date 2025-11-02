@@ -1,3 +1,4 @@
+using System.Collections;
 using Unity.Mathematics;
 using UnityEditor.Callbacks;
 using UnityEngine;
@@ -9,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float speed = 10;
     [SerializeField] private float friction = 0.4f;
     [SerializeField] private Vector3 boostPower;
+    [SerializeField] private Animator playerAnimator;
     int lookingRight = 1;
     Collider coll;
     InputAction playerMoveAction;
@@ -42,33 +44,46 @@ public class PlayerMovement : MonoBehaviour
             lookingRight = 1;
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
-        
+
         rb.AddForce(playerMovement);
 
         if (playerMovement != Vector2.zero)
         {
+            playerAnimator.SetBool("IsRunning", true);
             coll.material.dynamicFriction = 0;
         }
         else
         {
+            playerAnimator.SetBool("IsRunning", false);
             coll.material.dynamicFriction = friction;
         }
 
         //jump if on ground
         if (jumpAction.WasPressedThisFrame() && IsGrounded())
         {
-            rb.AddForce(Vector3.up * jumpStrength);
+            StartCoroutine(Jump());
         }
+
 
         //if activated boost into the direction player is moving if a monkey can boost
         if (Input.GetKeyDown(KeyCode.Mouse1) && MonkeyManager.Instance.usableMonkeys > 0)
         {
             MonkeyManager.Instance.usableMonkeys--;
 
-            rb.AddForce(new (boostPower.x * lookingRight, boostPower.y));
+            rb.AddForce(new(boostPower.x * lookingRight, boostPower.y));
         }
 
     }
+
+    private IEnumerator Jump()
+    {
+        playerAnimator.SetBool("IsJumping", true);
+        rb.AddForce(Vector3.up * jumpStrength);
+        yield return new WaitForSeconds(0.9f);
+        playerAnimator.SetBool("IsJumping", false);
+
+    }
+
 
     bool IsGrounded()
     {

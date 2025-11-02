@@ -16,24 +16,31 @@ public class NpcMonkey : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     void OnTriggerStay(Collider other)
     {
         if (other.gameObject.tag == "Player" && !isSaved && Input.GetKey(KeyCode.Mouse0))
         {
             isSaved = true;
-            StartCoroutine(SavingSequence());
+            //StartCoroutine(SavingSequence());
+            SaveMonkey();
         }
     }
 
-
-    private IEnumerator SavingSequence()
+    private void SaveMonkey()
     {
-        //rend.material.color = Color.green;
         MonkeyManager.Instance.savedMonkeys++;
         MonkeyManager.Instance.usableMonkeys++;
-        yield return new WaitForSeconds(2);
         Destroy(gameObject);
     }
+
+    //private IEnumerator SavingSequence()
+    //{
+    //  rend.material.color = Color.green;
+    //    MonkeyManager.Instance.savedMonkeys++;
+    //    MonkeyManager.Instance.usableMonkeys++;
+    //yield return new WaitForSeconds(2);
+    //    Destroy(gameObject);
+    //}
 }
