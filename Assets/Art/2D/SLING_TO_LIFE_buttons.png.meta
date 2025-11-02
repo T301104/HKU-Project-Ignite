@@ -1,0 +1,2003 @@
+fileFormatVersion: 2
+guid: 764922baac80d3041a5c66a9256d0eeb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 820
+        width: 314
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f73acd048a794a8b210ada9ec9639
+      internalID: -831496218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 840
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a74ab4581ef04cb00b74c85eaa75d
+      internalID: -1777985969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 840
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3047b8912853d8428e44b9d2e70c164
+      internalID: 1330392403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_3
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 839
+        width: 61
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e73646a204704a886227526391644
+      internalID: -2081969688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_4
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 840
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181aff127918a3f4897f347eec23b5e6
+      internalID: 1228562700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_5
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 840
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7fbf4c5c2faa47a391bf9191a46c0
+      internalID: -369118461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_6
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 840
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01426a4b21a54438c47d5e1359b66e
+      internalID: -686068943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 871
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8d158892adf1409f233965ed30266
+      internalID: 931299667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 840
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad00083c99dfb4b837f46ab9fce93f
+      internalID: 1663969770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 616
+        width: 314
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c99104414c3045883410d9dc5bd50
+      internalID: 1521959042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_10
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 740
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dbcfc8df395f841ac433e64d1e3d5d
+      internalID: 1367313726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_11
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e444402ae8e2e243a893606f575509d
+      internalID: 2006076724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_12
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804384107b0aa024d9c36a7ed85e5913
+      internalID: -277943173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_13
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b3cc2e9493b1429ae5e0e86e254d3
+      internalID: 302500975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae3c288f45e674aad10c5b00dd1a2f
+      internalID: -1643902265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_15
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f88547f9ac74f4f909f6289509f96f
+      internalID: 482530869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_16
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5f275d1aa531549b17e5641e51149b
+      internalID: -888465234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_17
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5041ec6114281624e8edc654d7d51cac
+      internalID: -1628083253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_18
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936f721662aff149b0e99bf8fa6be56
+      internalID: -2136612089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_19
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba40da547f6a0d14f9e71740045542a3
+      internalID: -966556677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_20
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0e442890ab0704f8d88385b2507e35
+      internalID: 1827231981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_21
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb83dbf10246724799f4abc66c18ea8
+      internalID: 861172941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_22
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8cd08bc632e314f8da5df810041586
+      internalID: -391713950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_23
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a76bfac1cac414e8aa6a7b1358652d
+      internalID: -999232989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_24
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 740
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467691e1a5208ac4db5b94580ed5d624
+      internalID: 1218786479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_25
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 732
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e83e5af7d89ca448b301b7bfda97a00
+      internalID: 1473073702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed70253ee7efa47af6067f6ae85d5a
+      internalID: -1721143299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_27
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c8d1acc3c74447a35e7335cdfec89
+      internalID: 526130037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_28
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7be0693f629e941a87b8c4ef605492
+      internalID: 1383148938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_29
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a506a0d64d0ed145be470111403f681
+      internalID: -299799555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_30
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f958d59203d240141be9fbf4e91c4110
+      internalID: 1499563872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_31
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf905cdf1155f44eba278839a57faa8
+      internalID: -1043186583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_32
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879393639e29b304ea6fcb6bb254806b
+      internalID: -333668260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_33
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479bd91f293855d4b8404f4f43744f85
+      internalID: 367580485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_34
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e15809c547202468f25be0fc6ba629
+      internalID: -2113864592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_35
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb107e6cfd0e48448b36eaa016e06b8
+      internalID: 437628068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_36
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73020d62d13d5647ac24b538392b102
+      internalID: -1091887709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_37
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 616
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb8fe158631d44e8a677d3a9c741ab
+      internalID: -1998297358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_38
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782ad4c16fd10b44b56f9db34ceb6e6
+      internalID: 479059903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_39
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513cb836a1535b48b07cf8fd3902f90
+      internalID: 150728947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_40
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 616
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bd3511b0642854e9d87c7479e101f5
+      internalID: -2106907863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_41
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 616
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e546aee97f9c4695b45475f3c1227
+      internalID: 1803504647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_42
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 616
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e98e55e1493c344bbd1ba7a8f81dbad
+      internalID: 453794763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 412
+        width: 554
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8579d8a044475eb4f93d9f5aaa896c5c
+      internalID: 1473514077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_44
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2903821ecb91d4144ab5fb5c8bcaed79
+      internalID: -1400985974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_45
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcfe775a773fd745a9099362086780d
+      internalID: 1943857784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_46
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 356
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea0d261e1f54f4419eab2e95dc90434
+      internalID: -1772349379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_47
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455562456fc05a4194a7d076be7ff37
+      internalID: 343727750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_48
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b00c2aa674376f48b6ea0cef8eeb428
+      internalID: -1643338005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_49
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30611090c9f12564182bf5bc21ddc8b1
+      internalID: -457520396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_50
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 356
+        width: 60
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87025b1d0981a44b36e59a4deb00d2
+      internalID: -1778089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_51
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 388
+        width: 19
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9de9f1f303a04c99739303481fa62
+      internalID: 1709199181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 676
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68eebe24765cd9418a8ddaac9c3f012
+      internalID: 1917575587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_53
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 356
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d63fa8c87c9bb443bfa341a9561bf78
+      internalID: 491888823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_54
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f6eb8672a876c4e9a9f921e47cdb38
+      internalID: -1497799876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_55
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846958199d95f8141b0bce90e4efffd1
+      internalID: 1137983058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_56
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7825c34b364e42a0e1cc80d85d2cc
+      internalID: -1529559459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_57
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea24aee88d74a44842d19021f63794
+      internalID: -540633411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_58
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15aaae53d01adc4b96ad3b021ad7ac4
+      internalID: 1142700240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_59
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c78532b9c0f7449f792ef81fcbd9a
+      internalID: -416634364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_60
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a7bcc58fc42da419b344e84ff309ad
+      internalID: -397532387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_61
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 234
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9900ef53c6db4e93df831cc008214
+      internalID: -719454076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_62
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed65f2395117f08448cff9c608b110f6
+      internalID: 406032791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_63
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e003d74797e6db54a9d102348bae01c9
+      internalID: -1143677699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_64
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a8caaa667ad8a479bd0579d339a6f4
+      internalID: -1305012900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_65
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099bd5b6cb6f769498c844bf234e6c56
+      internalID: 33984579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_66
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad61cde241eedb449b94ac6a3d700cb
+      internalID: -370386004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_67
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 234
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb66423f850f643b8212770d9baf25
+      internalID: -2108132104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_68
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d68deb07d292449656a7c4e613e12
+      internalID: -1265052887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_69
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b75a7e0c1af54184bb70461e1f211
+      internalID: 477825014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_70
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474d103a533b874590e40d0e0641a1a
+      internalID: -403332038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_71
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21acab1201b7c294aadec2a896a45bb5
+      internalID: 1262771025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_72
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d1ac83555ec345b4098a471c635e7
+      internalID: -1310353397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_73
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bb8559870b394dbed4b787b757b57
+      internalID: 519348462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_74
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e318855f2fbbd48be7312c788816fc
+      internalID: 1245128699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_75
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b7c509d7e9cc40ad8a91b34eaa76f
+      internalID: -654052032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_76
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 110
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfec8e02e0c975e44b628ac647d5ec67
+      internalID: 295652417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_77
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace6db9270c4224fb7dd331d6339d70
+      internalID: 1855479469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_78
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 110
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2163fcc84756cc4b827c17223415499
+      internalID: -869696409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_79
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 564
+        width: 744
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf1adce42016e649a21758ad8f62e18
+      internalID: -1312931331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_80
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 820
+        width: 315
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588b07457c55d34eb007ef08a68a5ca
+      internalID: -1790227467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLING_TO_LIFE_buttons_81
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 78
+        width: 739
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db7c622b7f0004b9f403ac628da308
+      internalID: -830127918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cf503d02677c6b4487f1fb57917f830
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLING_TO_LIFE_buttons_0: -831496218
+      SLING_TO_LIFE_buttons_1: -1777985969
+      SLING_TO_LIFE_buttons_10: 1367313726
+      SLING_TO_LIFE_buttons_11: 2006076724
+      SLING_TO_LIFE_buttons_12: -277943173
+      SLING_TO_LIFE_buttons_13: 302500975
+      SLING_TO_LIFE_buttons_14: -1643902265
+      SLING_TO_LIFE_buttons_15: 482530869
+      SLING_TO_LIFE_buttons_16: -888465234
+      SLING_TO_LIFE_buttons_17: -1628083253
+      SLING_TO_LIFE_buttons_18: -2136612089
+      SLING_TO_LIFE_buttons_19: -966556677
+      SLING_TO_LIFE_buttons_2: 1330392403
+      SLING_TO_LIFE_buttons_20: 1827231981
+      SLING_TO_LIFE_buttons_21: 861172941
+      SLING_TO_LIFE_buttons_22: -391713950
+      SLING_TO_LIFE_buttons_23: -999232989
+      SLING_TO_LIFE_buttons_24: 1218786479
+      SLING_TO_LIFE_buttons_25: 1473073702
+      SLING_TO_LIFE_buttons_26: -1721143299
+      SLING_TO_LIFE_buttons_27: 526130037
+      SLING_TO_LIFE_buttons_28: 1383148938
+      SLING_TO_LIFE_buttons_29: -299799555
+      SLING_TO_LIFE_buttons_3: -2081969688
+      SLING_TO_LIFE_buttons_30: 1499563872
+      SLING_TO_LIFE_buttons_31: -1043186583
+      SLING_TO_LIFE_buttons_32: -333668260
+      SLING_TO_LIFE_buttons_33: 367580485
+      SLING_TO_LIFE_buttons_34: -2113864592
+      SLING_TO_LIFE_buttons_35: 437628068
+      SLING_TO_LIFE_buttons_36: -1091887709
+      SLING_TO_LIFE_buttons_37: -1998297358
+      SLING_TO_LIFE_buttons_38: 479059903
+      SLING_TO_LIFE_buttons_39: 150728947
+      SLING_TO_LIFE_buttons_4: 1228562700
+      SLING_TO_LIFE_buttons_40: -2106907863
+      SLING_TO_LIFE_buttons_41: 1803504647
+      SLING_TO_LIFE_buttons_42: 453794763
+      SLING_TO_LIFE_buttons_43: 1473514077
+      SLING_TO_LIFE_buttons_44: -1400985974
+      SLING_TO_LIFE_buttons_45: 1943857784
+      SLING_TO_LIFE_buttons_46: -1772349379
+      SLING_TO_LIFE_buttons_47: 343727750
+      SLING_TO_LIFE_buttons_48: -1643338005
+      SLING_TO_LIFE_buttons_49: -457520396
+      SLING_TO_LIFE_buttons_5: -369118461
+      SLING_TO_LIFE_buttons_50: -1778089
+      SLING_TO_LIFE_buttons_51: 1709199181
+      SLING_TO_LIFE_buttons_52: 1917575587
+      SLING_TO_LIFE_buttons_53: 491888823
+      SLING_TO_LIFE_buttons_54: -1497799876
+      SLING_TO_LIFE_buttons_55: 1137983058
+      SLING_TO_LIFE_buttons_56: -1529559459
+      SLING_TO_LIFE_buttons_57: -540633411
+      SLING_TO_LIFE_buttons_58: 1142700240
+      SLING_TO_LIFE_buttons_59: -416634364
+      SLING_TO_LIFE_buttons_6: -686068943
+      SLING_TO_LIFE_buttons_60: -397532387
+      SLING_TO_LIFE_buttons_61: -719454076
+      SLING_TO_LIFE_buttons_62: 406032791
+      SLING_TO_LIFE_buttons_63: -1143677699
+      SLING_TO_LIFE_buttons_64: -1305012900
+      SLING_TO_LIFE_buttons_65: 33984579
+      SLING_TO_LIFE_buttons_66: -370386004
+      SLING_TO_LIFE_buttons_67: -2108132104
+      SLING_TO_LIFE_buttons_68: -1265052887
+      SLING_TO_LIFE_buttons_69: 477825014
+      SLING_TO_LIFE_buttons_7: 931299667
+      SLING_TO_LIFE_buttons_70: -403332038
+      SLING_TO_LIFE_buttons_71: 1262771025
+      SLING_TO_LIFE_buttons_72: -1310353397
+      SLING_TO_LIFE_buttons_73: 519348462
+      SLING_TO_LIFE_buttons_74: 1245128699
+      SLING_TO_LIFE_buttons_75: -654052032
+      SLING_TO_LIFE_buttons_76: 295652417
+      SLING_TO_LIFE_buttons_77: 1855479469
+      SLING_TO_LIFE_buttons_78: -869696409
+      SLING_TO_LIFE_buttons_79: -1312931331
+      SLING_TO_LIFE_buttons_8: 1663969770
+      SLING_TO_LIFE_buttons_80: -1790227467
+      SLING_TO_LIFE_buttons_81: -830127918
+      SLING_TO_LIFE_buttons_9: 1521959042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
