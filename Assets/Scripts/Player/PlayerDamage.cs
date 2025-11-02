@@ -33,12 +33,12 @@ public class PlayerDamage : MonoBehaviour
 
         if (KockFromRicht == true)
         {
-            rb.linearVelocity = new Vector3(-KockBackForce, KockBackForce * 2f, 0);
+            rb.linearVelocity = new Vector3(-KockBackForce * 1.5f, KockBackForce, 0);
         }
 
         if (KockFromRicht == false)
         {
-            rb.linearVelocity = new Vector3(KockBackForce, KockBackForce * 2f, 0);
+            rb.linearVelocity = new Vector3(KockBackForce * 1.5f, KockBackForce, 0);
         }
 
     }
