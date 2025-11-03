@@ -926,7 +926,7 @@ PrefabInstance:
     - target: {fileID: 8628502785719625371, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 9217234437682292332, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
@@ -1898,7 +1898,7 @@ PrefabInstance:
     - target: {fileID: -5971410051629635644, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie
@@ -1946,7 +1946,7 @@ PrefabInstance:
     - target: {fileID: 8628502785719625371, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 9217234437682292332, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
@@ -4847,7 +4847,7 @@ PrefabInstance:
     - target: {fileID: -5971410051629635644, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie
@@ -4895,7 +4895,7 @@ PrefabInstance:
     - target: {fileID: 8628502785719625371, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 9217234437682292332, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
@@ -5826,7 +5826,7 @@ PrefabInstance:
     - target: {fileID: 5008022236170083033, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     - target: {fileID: 6490625522564147758, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_LocalPosition.y
       value: -9.03
@@ -8390,7 +8390,7 @@ PrefabInstance:
     - target: {fileID: 5008022236170083033, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 6490625522564147758, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_LocalPosition.y
       value: -9.03
@@ -12906,7 +12906,7 @@ PrefabInstance:
     - target: {fileID: 895425838269697267, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: c4f623a937ef3cd439168c637c770afe, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie (2)
@@ -19396,7 +19396,7 @@ PrefabInstance:
     - target: {fileID: 466608246689542871, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     - target: {fileID: 919132149155446097, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D Bladeren (1)
@@ -21384,7 +21384,7 @@ PrefabInstance:
     - target: {fileID: -5971410051629635644, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: c4f623a937ef3cd439168c637c770afe, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie
@@ -21432,7 +21432,7 @@ PrefabInstance:
     - target: {fileID: 8628502785719625371, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 9217234437682292332, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
@@ -26745,7 +26745,7 @@ PrefabInstance:
     - target: {fileID: 5008022236170083033, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: c4f623a937ef3cd439168c637c770afe, type: 2}
     - target: {fileID: 6490625522564147758, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_LocalPosition.y
       value: -9.03
@@ -36765,34 +36765,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 62717771993489335, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: speed
-      value: 900
-      objectReference: {fileID: 0}
-    - target: {fileID: 62717771993489335, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: boostPower.x
-      value: 500
-      objectReference: {fileID: 0}
-    - target: {fileID: 62717771993489335, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: boostPower.y
-      value: 1500
-      objectReference: {fileID: 0}
-    - target: {fileID: 62717771993489335, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: jumpStrength
-      value: 1800
-      objectReference: {fileID: 0}
-    - target: {fileID: 1444125742376644630, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: far clip plane
-      value: 1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 1444125742376644630, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: near clip plane
-      value: -1000
-      objectReference: {fileID: 0}
-    - target: {fileID: 1444125742376644630, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: orthographic size
-      value: 15
-      objectReference: {fileID: 0}
     - target: {fileID: 2773187642796783027, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -117.5
@@ -36833,53 +36805,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3518632394730361101, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4407780625771198875, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_Resource
-      value: 
-      objectReference: {fileID: 8300000, guid: 4b756256520525944aed4b01becf364d, type: 3}
-    - target: {fileID: 4786467664095059026, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 5197090994377657547, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5197090994377657547, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.08
-      objectReference: {fileID: 0}
-    - target: {fileID: 6598562649912777304, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: e491cf1173515f04785e869eed05ebb1, type: 2}
     - target: {fileID: 7004527765273450951, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
       propertyPath: m_Name
       value: Player 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7004527765273450951, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_Layer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 7004527765273450951, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 7800042584699017102, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: MaxHealth
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7800042584699017102, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: KockBackForce
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 8587450642042420227, guid: 4594547c5d5ccbf448eda85f2fabbe4e, type: 3}
-      propertyPath: m_Layer
-      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38914,7 +38842,7 @@ PrefabInstance:
     - target: {fileID: 895425838269697267, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie
@@ -39981,7 +39909,7 @@ PrefabInstance:
     - target: {fileID: 466608246689542871, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     - target: {fileID: 919132149155446097, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D Bladeren (1)
@@ -43760,7 +43688,7 @@ PrefabInstance:
     - target: {fileID: 5008022236170083033, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 6490625522564147758, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_LocalPosition.y
       value: -9.03
@@ -50202,7 +50130,7 @@ PrefabInstance:
     - target: {fileID: 466608246689542871, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     - target: {fileID: 919132149155446097, guid: 46385bece33ae77418d35040b1d3fca6, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D Bladeren (1)
@@ -51034,7 +50962,7 @@ PrefabInstance:
     - target: {fileID: -5971410051629635644, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 9ce99274b49412a49bacf3e7cef2c7ca, type: 2}
+      objectReference: {fileID: 2100000, guid: e5367410dff04c24386cc7d9204731eb, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie (2)
@@ -52745,7 +52673,7 @@ PrefabInstance:
     - target: {fileID: 895425838269697267, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 94f668d76b15c34479da69d3b74dcb63, type: 2}
+      objectReference: {fileID: 2100000, guid: 4f734322e7c1614469d68b7865b7becd, type: 2}
     - target: {fileID: 919132149155446097, guid: c4f8a97e35aebb94c9a246173834409a, type: 3}
       propertyPath: m_Name
       value: LP Alle 3D vegatatie (1)
